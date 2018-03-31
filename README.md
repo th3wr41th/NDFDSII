@@ -32,10 +32,12 @@ Quanto a paleta de cores escolhida foi para dados qualitativos. Foi necessário 
 
 ### Comentários 
 
-* Versão 1
+**Versão 1** 
+<br>
 As pessoas que comentaram sobre o projeto sugeriram adicionar mais analises para servir de parâmetro no comparativo com a visualização do gráfico de sobrevivência por idade. Outra sugestão foi criar uma visualização mostrando número totais de pessoas e dividido por sexo.
 
-* Versão 2
+**Versão 2**
+<br>
 Eu adotei as duas sugestões das pessoas que viram a primeira versão, adicionando a visualização “Total de pessoas” , dois gráficos de pizza com o total de pessoas que embarcaram e esse total dividido por sexo.
 
 Na versão dois foi feita a sugestão de alterar as cores das visualizações “Sobrevivência por Idade” e “Todos os Indivíduos”, pois a combinação de cores (verde e vermelho) pode prejudicar a experiência de quem é daltônico. Outra sugestão foi adicionar explicações das visualizações, para ajudar no entendimento da analise.
