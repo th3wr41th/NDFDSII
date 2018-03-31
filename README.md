@@ -5,9 +5,9 @@
 
 O objetivo desse projeto é analisar se mulheres e crianças tiveram prioridade na evacuação do Titanic. Dentro desta perspectiva foram criados os seguintes conjuntos de visualizações:
 
-**1** - Total de pessoas e distribuição por sexo e faixa etária.
+**1 - Total de pessoas e distribuição por sexo e faixa etária. **
 <br>
-**2** - Analise de sobrevivência.
+**2 - Analise de sobrevivência. **
 
 O primeiro conjunto apresenta um perspectiva geral de como estão divididos os passageiros. O segunda conjunto apresenta quem sobreviveu e como ficou dividido por faixa etária.
 
@@ -21,7 +21,7 @@ O primeiro conjunto apresenta um perspectiva geral de como estão divididos os p
 
 Após analise conclui-se que quando olhamos para o sexo, mais mulheres sobreviveram e quando analisamos a faixa etária, também ficou claro que as crianças (0-15) tiveram um taxa de sobrevivência elevada se comparados com os adultos (20-64). Então podemos dizer que mulheres e crianças tiveram prioridade na evacuação do Titanic.
 
-Design
+### Design 
 
 Toda a analise usa como filtro a coluna “Age”, pois o objetivo é analisar entre os passageiros se houve um discrepância muita grande dos mortos e vivos dentro de uma faixa etária. Sendo que os passageiros que não tinham informação da idade foram descartados, aproximadamente 20% da população. 
 
@@ -33,7 +33,7 @@ Na visualização “Todos os Indivíduos” optei pelo gráfico de pontos, pois
 
 Quanto a paleta de cores escolhida foi para dados qualitativos. Foi necessário escolher as cores que sejam tão separadas visualmente quanto possível,  já que as variáveis utilizadas são opostas: homem x mulher e morto x vivo.
 
-Comentários
+### Comentários 
 
 Versão 1
 As pessoas que comentaram sobre o projeto sugeriram adicionar mais analises para servir de parâmetro no comparativo com a visualização do gráfico de sobrevivência por idade. Outra sugestão foi criar uma visualização mostrando número totais de pessoas e dividido por sexo.
@@ -51,8 +51,8 @@ Na versão três foi feita as sugestões de adicionar um gráfico mais consolida
 Versão 4
 Conforme sugestões levantadas na versão três, nessa na versão quatro adicionei o gráfico “Sobrevivência por Faixa Etária” onde agrupo melhor as faixas etárias: idosos (maior ou igual a 65 anos), crianças (entre 0-15 anos) e adultos (entre 15-65 anos). Outra sugestão que implementei foi alterar o titulo para ficar mais condizente.
 
-Recursos
+### Recursos 
 
-Tableau Free Training Videos - https://www.tableau.com/learn/training
-Wikipedia: https://pt.wikipedia.org/wiki/RMS_Titanic
-Tableau Community: https://community.tableau.com/
+* Tableau Free Training Videos - https://www.tableau.com/learn/training
+* Wikipedia: https://pt.wikipedia.org/wiki/RMS_Titanic
+* Tableau Community: https://community.tableau.com/
