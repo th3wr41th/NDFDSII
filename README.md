@@ -5,9 +5,9 @@
 
 O objetivo desse projeto é analisar se mulheres e crianças tiveram prioridade na evacuação do Titanic. Dentro desta perspectiva foram criados os seguintes conjuntos de visualizações:
 
-**1 - Total de pessoas e distribuição por sexo e faixa etária. **
+**1 - Total de pessoas e distribuição por sexo e faixa etária.** 
 <br>
-**2 - Analise de sobrevivência. **
+**2 - Analise de sobrevivência.**
 
 O primeiro conjunto apresenta um perspectiva geral de como estão divididos os passageiros. O segunda conjunto apresenta quem sobreviveu e como ficou dividido por faixa etária.
 
