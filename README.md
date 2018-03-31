@@ -1,21 +1,22 @@
 
-Mulheres e crianças tiveram prioridade na evacuação do Titanic?
+## Mulheres e crianças tiveram prioridade na evacuação do Titanic?
 
-Resumo
+### Resumo
 
 O objetivo desse projeto é analisar se mulheres e crianças tiveram prioridade na evacuação do Titanic. Dentro desta perspectiva foram criados os seguintes conjuntos de visualizações:
 
-1 - Total de pessoas e distribuição por sexo e faixa etária.
-2 - Analise de sobrevivência.
+**1** - Total de pessoas e distribuição por sexo e faixa etária.
+<br>
+**2** - Analise de sobrevivência.
 
 O primeiro conjunto apresenta um perspectiva geral de como estão divididos os passageiros. O segunda conjunto apresenta quem sobreviveu e como ficou dividido por faixa etária.
 
-•	Link versão 1 [https://public.tableau.com/profile/alberto.silva3612#!/vizhome/dashboard_titanic_v1/Story1]
-•	Link versão 2
+* Link versão 1 [https://public.tableau.com/profile/alberto.silva3612#!/vizhome/dashboard_titanic_v1/Story1]
+* Link versão 2
 [https://public.tableau.com/profile/alberto.silva3612#!/vizhome/dashboard_titanic_v2/Story1]
-•	Link versão 3
+* Link versão 3
 [https://public.tableau.com/profile/alberto.silva3612#!/vizhome/dashboard_titanic_v3/Story1]
-•	Link versão 4
+* Link versão 4
 [https://public.tableau.com/profile/alberto.silva3612#!/vizhome/dashboard_titanic_v4/Story1]
 
 Após analise conclui-se que quando olhamos para o sexo, mais mulheres sobreviveram e quando analisamos a faixa etária, também ficou claro que as crianças (0-15) tiveram um taxa de sobrevivência elevada se comparados com os adultos (20-64). Então podemos dizer que mulheres e crianças tiveram prioridade na evacuação do Titanic.
