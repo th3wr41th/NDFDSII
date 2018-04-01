@@ -15,8 +15,9 @@ O primeiro conjunto apresenta um perspectiva geral de como estão divididos os p
 * [Link versão 2](https://public.tableau.com/profile/alberto.silva3612#!/vizhome/dashboard_titanic_v2/Story1)
 * [Link versão 3](https://public.tableau.com/profile/alberto.silva3612#!/vizhome/dashboard_titanic_v3/Story1)
 * [Link versão 4](https://public.tableau.com/profile/alberto.silva3612#!/vizhome/dashboard_titanic_v4/Story1)
+* [Link versão 5](https://public.tableau.com/profile/alberto.silva3612#!/vizhome/dashboard_titanic_v5/Story1)
 
-Após analise conclui-se que quando olhamos para o sexo, mais mulheres sobreviveram e quando analisamos a faixa etária, também ficou claro que as crianças (0-15) tiveram um taxa de sobrevivência elevada se comparados com os adultos (20-64). Então podemos dizer que mulheres e crianças tiveram prioridade na evacuação do Titanic.
+Após analise conclui-se que quando olhamos para o sexo as mulheres foram as que tiveram uma taxa de sobrevivência alta, e quando analisamos a faixa etária, os dados mostram que as crianças (0-12) tiveram um taxa de sobrevivência elevada se comparados com os jovens (13-20), adultos (21-64) e os idosos (maior ou igual a 65 anos) que faleceram todos . Então podemos dizer que as mulheres e crianças tiveram prioridade na evacuação do Titanic.
 
 ### Design 
 
@@ -50,7 +51,11 @@ Na versão três foi feita as sugestões de adicionar um gráfico mais consolida
 
 **Versão 4**
 <br>
-Conforme sugestões levantadas na versão três, nessa na versão quatro adicionei o gráfico “Sobrevivência por Faixa Etária” onde agrupo melhor as faixas etárias: idosos (maior ou igual a 65 anos), crianças (entre 0-15 anos) e adultos (entre 15-65 anos). Outra sugestão que implementei foi alterar o titulo para ficar mais condizente.
+Conforme sugestões levantadas na versão três, eu adicionei na versão quatro o gráfico “Sobrevivência por Faixa Etária” onde agrupo melhor as faixas etárias: idosos (maior ou igual a 65 anos), crianças (entre 0-15 anos) e adultos (entre 15-65 anos). Outra sugestão que implementei foi alterar o titulo para ficar mais condizente.
+
+**Versão 5**
+<br>
+Conforme sugestões apresentadas na versão quatro, eu adicionei um nova faixa etária e melhorei a apresentação dos gráficos.
 
 ### Recursos 
 
